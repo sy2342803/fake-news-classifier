@@ -1,5 +1,8 @@
 # 가짜 뉴스와 진짜 뉴스 판별 분석
 
+> 가짜 뉴스와 진짜 뉴스와 판별하고 분석하는 웹 입니다.
+> training dataset, fake news와 real news가 구분되어 csv 파일로 되어있고 이 두 csv 파일을 이용해서 fake news와 real news의 차이점을 발견하고 이를 학습 근거로 삼아 학습시킵니다.
+
 * Kaggle: Real & Fake News
 
 https://www.kaggle.com/datasets/razanaqvi14/real-and-fake-news
